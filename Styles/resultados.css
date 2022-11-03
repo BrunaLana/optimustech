@@ -1,0 +1,29 @@
+.lista__resultados-container {
+    display: flex;
+    padding: 0 3em 4em 5em;
+}
+
+.lista__resultado-titulo {
+    font-size: 60px;
+    font-weight: 600;
+    color: var(--vermelho);
+    margin-right: 2em;
+}
+
+.lista__resultado-subtitulo {
+    color: var(--cinza-muito-escuro);
+    font-size: 18px;
+    font-weight: 500;
+    margin: 1em 0;
+}
+
+.lista__resultado-texto {
+    color: var(--cinza);
+}
+
+.lista__resultado-item {
+    display: block;
+    margin-right: 2em;
+}
+
+

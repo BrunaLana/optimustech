@@ -1,0 +1,30 @@
+.anuncio {
+    margin-top: 8em;
+}
+
+.anuncio__imagem {
+    text-align: center;
+}
+
+.anuncio__texto{
+    font-size: 14px;
+    font-weight: 500;
+    color: var(--vermelho);
+    background: rgba(142, 36, 36, 0.05);
+    border-radius: 16px;
+    padding: 0.5em 1em;
+}
+
+.anuncio__titulo {
+    font-size: 36px;
+    font-weight: 600;
+    color: var(--cinza-muito-escuro);
+    margin: 1em 0;
+}
+
+.anuncio__texto-principal {
+    font-size: 20px;
+    color: var(--cinza);
+    margin-bottom: 3em;
+}
+
